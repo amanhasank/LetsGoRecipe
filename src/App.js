@@ -184,10 +184,10 @@ const Fetchreceipe = async (Searchstring)=>{
     <Container maxWidth = "lg">
       <Header>
         <Appname> 
-        <Appicon src ="/burger.png" />
+        <Appicon src ="burger.png" />
         Let's Go Receipe</Appname>
         <Searchbar>
-          <Seachicon src ="/searching.png" />
+          <Seachicon src ="searching.png" />
          
           <SearcInput placeholder="Search Recipe" onChange={ontextChange} />
         </Searchbar>
