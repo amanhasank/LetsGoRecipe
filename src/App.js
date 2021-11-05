@@ -5,6 +5,7 @@ import Axios from "axios";
 import React from 'react';
 import { DialogContent } from '@material-ui/core';
 import { DialogTitle } from '@material-ui/core';
+
 import { DialogActions } from '@material-ui/core';
 
 
@@ -58,14 +59,6 @@ width: 30px;
 height: 30px;
 margin: 15px;`;
 
-const SearchComponent = styled.div`
-  display: flex;
-  flex-direction: row;
-  background-color:white;
-  padding:10px;
-  border-radius: 6px;
-  width: 50%;
-`;
 
 const ReceipeListcontainer = styled.div `
  display: flex;
@@ -168,7 +161,7 @@ border-radius: 4px;
 color: red;
 text-align: center;
 `;
-const axios = require('axios');
+
 const appida = "3324cd56";
 const APP_KEY= "b052d767b41b6a6dd18f75398b73705c";
 function App() {
