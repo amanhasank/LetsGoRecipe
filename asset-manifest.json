@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LetsGoRecipe/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/LetsGoRecipe/static/js/main.c862b23e.chunk.js",
+    "main.js.map": "/LetsGoRecipe/static/js/main.c862b23e.chunk.js.map",
+    "runtime-main.js": "/LetsGoRecipe/static/js/runtime-main.e0e380d3.js",
+    "runtime-main.js.map": "/LetsGoRecipe/static/js/runtime-main.e0e380d3.js.map",
+    "static/js/2.928d2c30.chunk.js": "/LetsGoRecipe/static/js/2.928d2c30.chunk.js",
+    "static/js/2.928d2c30.chunk.js.map": "/LetsGoRecipe/static/js/2.928d2c30.chunk.js.map",
+    "static/js/3.ed25d6fa.chunk.js": "/LetsGoRecipe/static/js/3.ed25d6fa.chunk.js",
+    "static/js/3.ed25d6fa.chunk.js.map": "/LetsGoRecipe/static/js/3.ed25d6fa.chunk.js.map",
+    "index.html": "/LetsGoRecipe/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/LetsGoRecipe/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.928d2c30.chunk.js.LICENSE.txt": "/LetsGoRecipe/static/js/2.928d2c30.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0e380d3.js",
+    "static/js/2.928d2c30.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.c862b23e.chunk.js"
+  ]
+}
